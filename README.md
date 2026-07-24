@@ -4,11 +4,11 @@ A responsive partial clone of the Accredian Enterprise website built with **Next
 
 ## 🚀 Live Demo
 
-Vercel: https://your-vercel-link.vercel.app
+Vercel:(https://accredian-three-neon.vercel.app/)
 
 ## 📂 GitHub Repository
 
-https://github.com/your-username/accredian-clone
+https://github.com/Suman-20/accredian
 
 ---
 
@@ -95,7 +95,7 @@ public/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/accredian-clone.git
+git clone https://github.com/your-username/accredian.git
 ```
 
 Move into project
@@ -242,4 +242,4 @@ If given more time, I would add:
 Full Stack Developer (MERN)
 
 GitHub:
-https://github.com/your-username
+https://github.com/Suman-20/accredian
